@@ -8,7 +8,7 @@ website:
       - text: "About"
         href: index.qmd
       - text: "Resume"
-        href: Resume.
+        href: Resume.pdf
         
         
     right:
