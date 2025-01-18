@@ -1,0 +1,13 @@
+---
+title: "Welcome to My Portfolio"
+---
+
+About Me
+
+Hello! I'm Merlin Urbanski, a passionate researcher and aspiring data scientist with a deep interest in predictive analytics, spatial data, and statistical modeling. I am currently pursuing my Master’s in Methodology and Statistics for Behavioral, Biomedical, and Social Sciences at Utrecht University. 
+
+### What I Do
+- **Predictive Analytics**: Designing models to uncover insights and make accurate predictions from data.  
+- **Statistical Modeling**: Leveraging R and Python to develop robust statistical solutions for challenging problems.  
+- **Data Imputation**: Researching innovative ways to handle missing data and ensure model reliability.  
+
