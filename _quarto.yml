@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: .  # Render files directly into the main/root directory
+  
 website:
   title: "Merlin Urbanski"
   navbar:
